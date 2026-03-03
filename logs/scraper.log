@@ -1,0 +1,40 @@
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-1.html
+ERROR:root:Failed on page 1: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-2.html
+ERROR:root:Failed on page 2: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-3.html
+ERROR:root:Failed on page 3: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-4.html
+ERROR:root:Failed on page 4: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-5.html
+ERROR:root:Failed on page 5: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-6.html
+ERROR:root:Failed on page 6: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-7.html
+ERROR:root:Failed on page 7: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-8.html
+ERROR:root:Failed on page 8: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-9.html
+ERROR:root:Failed on page 9: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-10.html
+ERROR:root:Failed on page 10: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-1.html
+ERROR:root:Failed on page 1: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-2.html
+ERROR:root:Failed on page 2: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-3.html
+ERROR:root:Failed on page 3: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-4.html
+ERROR:root:Failed on page 4: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-5.html
+ERROR:root:Failed on page 5: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-6.html
+ERROR:root:Failed on page 6: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-7.html
+ERROR:root:Failed on page 7: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-8.html
+ERROR:root:Failed on page 8: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-9.html
+ERROR:root:Failed on page 9: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+INFO:root:Accessing https://books.toscrape.com/catalogue/page-10.html
+ERROR:root:Failed on page 10: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
